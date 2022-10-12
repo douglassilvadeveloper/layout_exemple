@@ -217,5 +217,8 @@ button {
   }
   .app-sidebar {
     border-right: none;
+    max-width: 97%;
+    min-height: 10vh;
+    margin: auto 0.5rem;
   }
 }
